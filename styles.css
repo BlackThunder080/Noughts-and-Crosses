@@ -1,0 +1,20 @@
+body {
+    background-color: lightgray;
+}
+
+#grid {
+    background-color: black;
+}
+
+.grid-square {
+    background-color: lightskyblue;
+    width: 120px;
+    height: 120px;
+    font-family: arial;
+    text-align: center;
+    font-size: 96px;
+}
+
+.grid-square:hover {
+    background-color: lightblue;
+}
