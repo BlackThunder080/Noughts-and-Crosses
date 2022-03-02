@@ -1,6 +1,4 @@
 # Noughts-and-Crosses
-A simple noughts and crosses game made for any browser
+Weird noughts and crosses game I made a gazillion years ago
 
-Download the files and then double click on index.html. Make sure all the files are in the same folder
-
-Have fun and enjoy!
+I'm pretty sure it works without any bugs ¯\_(ツ)_/¯
